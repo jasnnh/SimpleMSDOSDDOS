@@ -5,5 +5,8 @@ denying of service can be easily done using everyday applications for example if
 web server from that small business is being put under huge loads of stress meaning any of their customers trying to access their site can lead to slow load times
 or even no loading at all with a prompt Time out.
 
-in this example i have a MSDOS script where the script will execute 20 browsers loading google.com the target and depending on the server we would have to run more
+in this example i have a MSDOS script where the script will execute 20 browsers loading the target "google.com" and depending on the server we would have to run more
 browsers requesting more resources to deny more service.
+
+Usually to combat against DDOS a server can increase or decrease their server resources, identify what is normal traffic and what isn't or even deploy firewall rules
+to prevent further attacks.
