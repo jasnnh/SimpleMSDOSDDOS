@@ -10,3 +10,6 @@ browsers requesting more resources to deny more service.
 
 Usually to combat against DDOS a server can increase or decrease their server resources, identify what is normal traffic and what isn't or even deploy firewall rules
 to prevent further attacks.
+
+a more complex way and in code would be to code a client to connect to an IP address (server) and port and constantly send data and then upscale the client amount to
+take up all the server's resources which i will later provide a more complex example of.
