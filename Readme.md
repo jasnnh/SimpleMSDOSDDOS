@@ -1,4 +1,4 @@
-This is for educational purposes, please do not use this code for any harm.
+This is for educational purposes, please do not use this code to do any harm. I'm not responsible for your actions. ddosing is a crime and can lead to jail.
 
 When you think of DDOS you think of a more complex situation where a hacker is using code to deny service from a provider, and that is not true
 denying of service can be easily done using everyday applications for example if i run 100 web browsers trying to access a small business site that
